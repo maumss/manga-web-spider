@@ -8,12 +8,12 @@ This application downloads all images from a URL to a specific folder.
 
 ## Usage
 
-Just double click on jar file. 
+Just double click on jar file.
 
 - The URL is hard coded
 
 ## Credits
-Mauricio Soares da Silva - [maumss.git@gmail.com](mailto:maumss.git@gmail.com).
+[Mauricio Soares da Silva](mailto:maumss.git@gmail.com).
 
 ## License
 
