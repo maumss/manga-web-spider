@@ -13,7 +13,7 @@ Just double click on jar file.
 - The URL is hard coded
 
 ## Credits
-Mauricio Soares da Silva - [maumss@users.noreply.github.com](mailto:maumss@users.noreply.github.com)
+Mauricio Soares da Silva - [maumss.git@gmail.com](mailto:maumss.git@gmail.com).
 
 ## License
 
